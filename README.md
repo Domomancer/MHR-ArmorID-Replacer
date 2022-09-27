@@ -4,6 +4,9 @@ A Python script that replaces the armor IDs of modded armor with any other wante
 
 It is highly recommended, that the mod is modified BEFORE it is placed in the installation directory of Monster Hunter Rise.
 
+# Requirements
+This script is written in python 3.9.5. It is recommended to use the same version or higher to execute the code.
+
 # How to use:
 There are 3 variables in the script, that need to be adjusted:
 - before (String)
